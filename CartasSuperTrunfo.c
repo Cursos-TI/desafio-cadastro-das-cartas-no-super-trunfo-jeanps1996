@@ -2,9 +2,9 @@
 
 int main() {
 
-//Carta 01
+    //Carta 01
 
-char estado[50];
+    char estado[50];
     char codigoestado[50];
     char cidade[50];
     int populacao, pontoturistico;
@@ -42,7 +42,7 @@ char estado[50];
 
     //Carta 02
 
-char estado[50];
+    char estado[50];
     char codigoestado[50];
     char cidade[50];
     int populacao, pontoturistico;
